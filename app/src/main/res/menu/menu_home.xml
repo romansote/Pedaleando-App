@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.roman.examenandro.Account.HomeActivity">
+    <item
+        android:id="@+id/action_pedirAyuda"
+        android:orderInCategory="100"
+        android:title="@string/action_pedirAyuda"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_Ayudar"
+        android:orderInCategory="1001"
+        android:title="@string/action_ayudar"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/buscar"
+        android:orderInCategory="1001"
+        android:title="@string/Buscar_user"
+        app:showAsAction="never" />
+</menu>

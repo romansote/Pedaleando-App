@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="TipoCaida">
+        <item>Seleccione</item>
+        <item>Falla Mecanica</item>
+        <item>Problema fisico</item>
+    </string-array>
+</resources>

@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Pedaleando</string>
+    <string name="facebook_app_id">406207966388924</string>
+    <string name="title_activity_registro">Registro</string>
+    <string name="action_pedirAyuda">Pedir ayuda</string>
+    <string name="action_ayudar">Ayudar</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="error_permissions">No tiene permisos necesarios para utilizar esta caracteristica!</string>
+    <string name="error">Error!</string>
+    <string name="error_permiso">Sin permiso para usar la localizacion</string>
+    <string name="con_failer">No se pudo conectar al servidor</string>
+    <string name="error_descpEmpty">Rellene campo descripcion</string>
+    <string name="error_comboEmpty">Seleccione un tipo</string>
+    <string name="Solicitud_exito">Solicitud ingresada</string>
+    <string name="oprimir_btn">Mantenga pulsado</string>
+    <string name="Solicitud_ok">Gracias por ayudar!</string>
+    <string name="Buscar_user">Buscar usuario</string>
+    <!-- Registro -->
+    <string name="Error_nombreEmpty">Debe ingresar sus nombres</string>
+    <string name="Error_rutEmpty">Debe ingresar su rut</string>
+    <string name="Error_EmailEmpty">Debe ingresar su email</string>
+    <string name="Error_ApellidoEmpty">Debe ingresar su apellido</string>
+    <string name="Error_userEmpty">Debe ingresar un usuario</string>
+    <string name="Error_passEmpty">Debe ingresar una contraseña</string>
+    <string name="Error_passDiferente">Las contraseña no coinciden</string>
+    <string name="Registro_exitoso">Su registro a sido exitoso</string>
+    <!-- login -->
+    <string name="Error_login_incorrecto">Usuario o contraseña incorrectos</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Mapa</string>
+    <string name="title_dashboard">Pedir ayuda</string>
+    <string name="title_notifications"></string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key">AIzaSyAjoJr-ejvqPpJPMA-D4Gr8peDcXotEvLA</string>
+    <string name="title_activity_help">HelpActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_buscar">BuscarActivity</string>
+    <string name="title_activity_datos">DatosActivity</string>
+</resources>
